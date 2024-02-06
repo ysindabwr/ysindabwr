@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ysindabwr
+- 👋 Hi, I’m Yashveer Singh Inda
+- 🌱 I currently work with Angular, React, and Node.
 - 👀 I’m interested in exploring tech gadgets & technologies.
-- 🌱 I’m currently learning Angular & React.
 
 <!---
 ysindabwr/ysindabwr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
